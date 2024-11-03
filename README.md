@@ -120,6 +120,8 @@ There is a noticeable decline in sales of the models in both 2014 and 2015
 
 
 ## 3.Bottom 5 markets by Unit Sold
+## Pivot Table
+![Screenshot (193)](https://github.com/user-attachments/assets/55bf8d0d-e876-4184-9c63-ee8d7aafca7f)
 
 ### i. Inferences
 - Low unit sales in these markets indicate low demands, intense competition, customer preferences and their spending habits.
@@ -133,6 +135,11 @@ It is best for the company to do a thorough research and Understand the unique c
 
 
 ## 4. Revenue by Line of Business
+## Pivot Table
+![Screenshot (196)4](https://github.com/user-attachments/assets/641c059f-942a-42cd-a9ad-3f2e80233442)
+
+## Percentage of Revenue by Line of Business
+![Screenshot (202)](https://github.com/user-attachments/assets/828f4f7c-c978-476e-ab89-90a0f0a42115)
 
 ### i. Inferences
 -  Service Plan is a predominant revenue source indicating a strong market demand for the services offered.
