@@ -74,12 +74,13 @@ EDA invoved the exploring of Data to answer some questions about the Data which 
 ## Total Revenue by Region
 
 ### 1. Inferences
-Sales Performance by each region in each year;
-South: The South region had the highest revenue in both 2023 and 2024 but shows a slight drop in sales in 2024. The drop in sales may be due to increased competition in the market.
-East: Had the 2nd hightes revenue in 2023 but Shows a huge decrease in revenue in 2024. The decline in sales may indicate a rising competitor in the market andthe prices of the products were seen to be high.
-North and West: Both regions shows that revenue increases in 2024 which indicates improved and effective implemented price strategies.
-Sales Distribution by Region;
-The Column bar charts illustrate a clear drop in revenue for 2024 compared to 2023. This might indicate that overall market conditions may be affecting all the regions.
+- Overall, the revenue generated in 2014 was more than the revenue generated in 2015. The drop in sales may be due to increased competition in the market. 
+- **Sales Performance by each region in each year**;
+  * North East: The North East region had the highest revenue in both 2014 and 2015 but there was a huge drop in sales in 2015. The drop in sales may be due to increased competition in the market.
+  * South West: This region generated the 2nd highest revenue in 2014 and 2015 but Shows a huge decrease in revenue in 2015. The decline in sales may indicate a rising competitor in the market andthe prices of the products were seen to be high.
+ * South South, South East and North West: There was a slight decrease of revenue generated in 2015 in all three regions indicating a potential area of concern due to price strategies implemented.
+ * North Central: Had the least generated revenue in both years
+
 ### 2. Strategic Recommendation
 - The management should consdider conducting regular salary benchmark in each states to make sure that the salaries align with local market rate and cost of living.
 - They should also offer pay increases based on skill levels or certificates which can help bridge the gap across states and reward employess for their contributions.
