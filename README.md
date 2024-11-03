@@ -121,10 +121,11 @@ It is best for the company to do a thorough research and Understand the unique c
 
 ### i. Inferences
 -  Service Plan is a predominant revenue source indicating a strong market demand for the services offered.
--  Parts, Copier sale and printer sale 
+-  Parts, Copier sale and printer sale low revenue/sales indicate declining demands.
 
 ### ii. Strategic Recommendation
-
-
+- The company should develop new service line and enhance on the existing ones based on customer feedback and market trends to capitalize on the growing demand.
+- They should also consider increasing investments in marketing for the Parts, Copier Sale and Printer sale line of business.
+  
 ### iii. Conclusion
-
+The Service Plan's contribution of 71.02% to the overall revenue makes it of importance to the company. By leveraging its strengths and addressing potential challenges through targeted strategies, the company can enhance its market position further and drive revenue growth.
