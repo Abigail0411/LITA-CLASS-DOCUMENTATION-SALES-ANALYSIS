@@ -19,7 +19,7 @@
 
 ### Project Overview
 ---
-This project analyses sales data from various regions, markets, and stores. The aim of this project is to provide insights into revenue, units sold, and transaction categories over different periods. The analysis focuses on understanding revenue trends and sales performance across regions and calculating key metrics such as average revenue by region.
+This project analyses sales data from various regions, markets, and stores. The aim of this project is to provide insights into revenue, units sold, and transaction categories over different periods. The analysis focuses on understanding revenue trends and sales performance across regions, line of business and markets.
 
 ### Data Sources
 ---
