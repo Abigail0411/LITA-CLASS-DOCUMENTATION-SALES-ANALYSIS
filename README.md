@@ -120,7 +120,8 @@ It is best for the company to do a thorough research and Understand the unique c
 ## Revenue by Line of Business
 
 ### i. Inferences
-
+-  Service Plan is a predominant revenue source indicating a strong market demand for the services offered.
+-  Parts, Copier sale and printer sale 
 
 ### ii. Strategic Recommendation
 
