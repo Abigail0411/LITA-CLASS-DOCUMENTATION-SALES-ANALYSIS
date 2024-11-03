@@ -74,7 +74,7 @@ EDA invoved the exploring of Data to answer some questions about the Data which 
 ## Total Revenue by Region
 
 ### 1. Inferences
-- Overall, the revenue generated in 2014 was more than the revenue generated in 2015. The drop in sales may be due to increased competition in the market. 
+- Overall, the revenue generated in 2014 was more than the revenue generated in 2015. The drop in sales may be due to increased competition in the market for all regions. 
 - **Sales Performance by each region in each year**;
   * North East: The North East region had the highest revenue in both 2014 and 2015 but there was a huge drop in sales in 2015. The drop in sales may be due to increased competition in the market.
   * South West: This region generated the 2nd highest revenue in 2014 and 2015 but Shows a huge decrease in revenue in 2015. The decline in sales may indicate a rising competitor in the market andthe prices of the products were seen to be high.
@@ -82,9 +82,23 @@ EDA invoved the exploring of Data to answer some questions about the Data which 
  * North Central: Had the least generated revenue in both years
 
 ### 2. Strategic Recommendation
-- The management should consdider conducting regular salary benchmark in each states to make sure that the salaries align with local market rate and cost of living.
-- They should also offer pay increases based on skill levels or certificates which can help bridge the gap across states and reward employess for their contributions.
+The decline in revenue across all regions indicates a need for a strategic plan and implementation. The company should consider investigating the causes of the decline, such as changes in consumer behavior, economic factors, or competitive pressures as well as benchmarking with market prices.
   
 ### 3. Conclusion
-Strategic interventions like cost of living adjustments and skills based pay can address the differences in salariescreating a more equitable, transparentcompensation structure.
+Regional sales highlights opportunities for growth in underperformimg regions and importance of maintaing strong strategies in high-performing regions. By researching on the factors affecting the sales and addressing the issues causing the decline iin sales will help in improving the sales performance in all regions.
 
+## Total Revenue by Region
+
+### 1. Inferences
+- Overall, the revenue generated in 2014 was more than the revenue generated in 2015. The drop in sales may be due to increased competition in the market for all regions. 
+- **Sales Performance by each region in each year**;
+  * North East: The North East region had the highest revenue in both 2014 and 2015 but there was a huge drop in sales in 2015. The drop in sales may be due to increased competition in the market.
+  * South West: This region generated the 2nd highest revenue in 2014 and 2015 but Shows a huge decrease in revenue in 2015. The decline in sales may indicate a rising competitor in the market andthe prices of the products were seen to be high.
+ * South South, South East and North West: There was a slight decrease of revenue generated in 2015 in all three regions indicating a potential area of concern due to price strategies implemented.
+ * North Central: Had the least generated revenue in both years
+
+### 2. Strategic Recommendation
+The decline in revenue across all regions indicates a need for a strategic plan and implementation. The company should consider investigating the causes of the decline, such as changes in consumer behavior, economic factors, or competitive pressures as well as benchmarking with market prices.
+  
+### 3. Conclusion
+Regional sales highlights opportunities for growth in underperformimg regions and importance of maintaing strong strategies in high-performing regions. By researching on the factors affecting the sales and addressing the issues causing the decline iin sales will help in improving the sales performance in all regions.
