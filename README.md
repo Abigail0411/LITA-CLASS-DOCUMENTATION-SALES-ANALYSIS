@@ -93,12 +93,14 @@ Regional sales highlights opportunities for growth in underperformimg regions an
 ### i. Inferences
 -#### Model Performance
 There is a noticeable decline in sales of the models in both 2014 and 2015
-  * 300P: The hight revenue generator, indicating strong market demand but there was a decrease in revenue in 2023 which might indicate changes in customer behavior or preference.
+  * 3002P: The hight revenue generator, indicating strong market demand but there was a decrease in revenue in 2023 which might indicate changes in customer behavior or preference.
   * 4500C: Moderate revenue generator, indicating a competitive market.
   * 5001C, 4500P and 4055T: These models appear to be in the same range of revenue generated with 4055T been the least revenue generator.
 
 ### 2. Strategic Recommendation
-The decline in revenue across all regions indicates a need for a strategic plan and implementation. The company should consider investigating the causes of the decline, such as changes in consumer behavior, economic factors, or competitive pressures as well as benchmarking with market prices.
-  
+- The low sales in most of the models as seen in the coloumn charts might indicate poor quality of the product. The company should work on improving the quality of the models.
+- They can also consider adjusting the prices to help the models to be competitive in the market/industry.
+- Company should increase production and marketing for 3002p to capitalizeon its popularity.
 ### 3. Conclusion
-Regional sales highlights opportunities for growth in underperformimg regions and importance of maintaing strong strategies in high-performing regions. By researching on the factors affecting the sales and addressing the issues causing the decline iin sales will help in improving the sales performance in all regions.
+3002P modelis the strongest revenue driver and should be priotized in strtegic planning. By implementing the recoomendations mentioned above, it will improve their market performance.
+
