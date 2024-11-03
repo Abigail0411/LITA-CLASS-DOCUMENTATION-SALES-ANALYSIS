@@ -34,6 +34,7 @@ The dataset was sourced from the Sales Records of Federal Capital Territory. The
 - Revenue
 - Unit Sold
 - Transaction Category
+- Timeframe: The data collected are within the dates 3st January 2014 to 1st July 2015
   
 
 ### Tools Used
@@ -87,15 +88,14 @@ The decline in revenue across all regions indicates a need for a strategic plan 
 ### 3. Conclusion
 Regional sales highlights opportunities for growth in underperformimg regions and importance of maintaing strong strategies in high-performing regions. By researching on the factors affecting the sales and addressing the issues causing the decline iin sales will help in improving the sales performance in all regions.
 
-## Total Revenue by Region
+## Total Revenue by Model
 
-### 1. Inferences
-- Overall, the revenue generated in 2014 was more than the revenue generated in 2015. The drop in sales may be due to increased competition in the market for all regions. 
-- **Sales Performance by each region in each year**;
-  * North East: The North East region had the highest revenue in both 2014 and 2015 but there was a huge drop in sales in 2015. The drop in sales may be due to increased competition in the market.
-  * South West: This region generated the 2nd highest revenue in 2014 and 2015 but Shows a huge decrease in revenue in 2015. The decline in sales may indicate a rising competitor in the market andthe prices of the products were seen to be high.
- * South South, South East and North West: There was a slight decrease of revenue generated in 2015 in all three regions indicating a potential area of concern due to price strategies implemented.
- * North Central: Had the least generated revenue in both years
+### i. Inferences
+-#### Model Performance
+There is a noticeable decline in sales of the models in both 2014 and 2015
+  * 300P: The hight revenue generator, indicating strong market demand but there was a decrease in revenue in 2023 which might indicate changes in customer behavior or preference.
+  * 4500C: Moderate revenue generator, indicating a competitive market.
+  * 5001C, 4500P and 4055T: These models appear to be in the same range of revenue generated with 4055T been the least revenue generator.
 
 ### 2. Strategic Recommendation
 The decline in revenue across all regions indicates a need for a strategic plan and implementation. The company should consider investigating the causes of the decline, such as changes in consumer behavior, economic factors, or competitive pressures as well as benchmarking with market prices.
