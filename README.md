@@ -71,6 +71,14 @@ EDA invoved the exploring of Data to answer some questions about the Data which 
 ### Data Visualization
 ---
 ## 1. Total Revenue by Region
+## Pivot Table
+![Screenshot (194)1](https://github.com/user-attachments/assets/07591499-5d16-4671-a882-46688e891a2f)
+
+## Filtered Column Chart for 2014
+![Screenshot (190)](https://github.com/user-attachments/assets/91203462-40e7-4183-accf-3077b29f5da5)
+
+## Filtered Column Chart for 2014
+![Screenshot (189)1](https://github.com/user-attachments/assets/e8005e4f-0313-4b74-95b9-1651c4767d18)
 
 ### 1. Inferences
 - Overall, the revenue generated in 2014 was more than the revenue generated in 2015. The drop in sales may be due to increased competition in the market for all regions. 
