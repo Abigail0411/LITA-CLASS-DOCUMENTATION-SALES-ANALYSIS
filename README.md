@@ -77,7 +77,7 @@ EDA invoved the exploring of Data to answer some questions about the Data which 
 ## Filtered Column Chart for 2014
 ![Screenshot (190)](https://github.com/user-attachments/assets/91203462-40e7-4183-accf-3077b29f5da5)
 
-## Filtered Column Chart for 2014
+## Filtered Column Chart for 2015
 ![Screenshot (189)1](https://github.com/user-attachments/assets/e8005e4f-0313-4b74-95b9-1651c4767d18)
 
 ### 1. Inferences
@@ -95,6 +95,14 @@ The decline in revenue across all regions indicates a need for a strategic plan 
 Regional sales highlights opportunities for growth in underperformimg regions and importance of maintaing strong strategies in high-performing regions. By researching on the factors affecting the sales and addressing the issues causing the decline iin sales will help in improving the sales performance in all regions.
 
 ## 2. Total Revenue by Model
+## Pivot Table
+![Screenshot (194)2](https://github.com/user-attachments/assets/d9f11480-15dd-4219-8efc-769e573edec3)
+
+## Filtered Column Chart for 2014
+![Screenshot (200)](https://github.com/user-attachments/assets/fad36636-6c4e-4d48-b93c-f023520b36df)
+
+## Filtered Column Chart for 2015
+![Screenshot (201)](https://github.com/user-attachments/assets/9459f36e-0d26-4347-81f0-7678c7a5edc5)
 
 ### i. Inferences
 - #### Model Performance
