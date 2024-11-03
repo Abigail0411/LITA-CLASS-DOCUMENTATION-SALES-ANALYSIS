@@ -90,7 +90,7 @@ Regional sales highlights opportunities for growth in underperformimg regions an
 ## Total Revenue by Model
 
 ### i. Inferences
--#### Model Performance
+- #### Model Performance
 There is a noticeable decline in sales of the models in both 2014 and 2015
   * 3002P: The hight revenue generator, indicating strong market demand but there was a decrease in revenue in 2023 which might indicate changes in customer behavior or preference.
   * 4500C: Moderate revenue generator, indicating a competitive market.
@@ -104,13 +104,26 @@ There is a noticeable decline in sales of the models in both 2014 and 2015
 3002P modelis the strongest revenue driver and should be priotized in strtegic planning. By implementing the recoomendations mentioned above, it will improve their market performance.
 
 
-## Top 5 Markets by Revenue
+## Bottom 5 markets by Unit Sold
+
+### i. Inferences
+- Low unit sales in these markets indicate low demands, intense competition, customer preferences and their spending habits.
+
+### ii. Strategic Recommendation
+- Understanding the unique characteristics of each market is critical for identifying specific growth opportunities and challenges. The company should work towards understanding the markets to be able to know what plans and market strategies fit for each market so as to improve their performance on sales.
+- Marketing campaigns should be done for the market /product awareness.
+
+### iii. Conclusion
+It is best for the company to do a thorough research and Understand the unique characteristics of each market inorder to address them rightly and uinlock sales.
+
+
+## Revenue by Line of Business
 
 ### i. Inferences
 
 
 ### ii. Strategic Recommendation
 
-### iii. Conclusion
 
+### iii. Conclusion
 
