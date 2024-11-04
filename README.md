@@ -23,7 +23,7 @@ This project analyses sales data from various regions, markets, and stores. The 
 
 ### Data Sources
 ---
-The dataset was sourced from the Sales Records of Federal Capital Territory. The dataset includes information about the following:
+The dataset was sourced from the Sales Records of Royal Crown Limited. The dataset includes information about the following:
 - Region
 - Market
 - Store
